@@ -1,0 +1,25 @@
+body{
+font-style: normal;
+}
+.sending{
+background-color:red;
+font-size: xx-large;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border-bottom: red;
+border-color: blue;
+}
+.bug1{
+background-color: purple;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size:large;
+font-style: italic;
+border-color: skyblue;
+}
+.img1{
+background-color: aqua;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: medium;
+font-style: oblique;
+border-style: dashed;
+border-color: brown;
+}
